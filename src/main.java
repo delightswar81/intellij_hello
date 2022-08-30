@@ -6,5 +6,6 @@ public class main {
         System.out.println("Project Rock");
         System.out.println("Project Classic");
         System.out.println("Merge complete");
+        System.out.println("Hello! Github");
     }
 }
